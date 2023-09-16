@@ -1,7 +1,6 @@
 require 'rspec'
 require_relative 'solver'
 
-
 describe Solver do
   describe '#factorial' do
     it 'should have 1 argument' do
